@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/animations/static/media/background.1bd2443a.png"
   },
   {
-    "revision": "b741318298018168ca64",
+    "revision": "a867dee57b5fb8c5bc8f",
     "url": "/animations/static/css/main.47a72221.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/animations/static/media/Clouds.4284dfb0.svg"
   },
   {
-    "revision": "b741318298018168ca64",
-    "url": "/animations/static/js/main.b7413182.chunk.js"
+    "revision": "a867dee57b5fb8c5bc8f",
+    "url": "/animations/static/js/main.a867dee5.chunk.js"
   },
   {
     "revision": "f9e053e73f1d1a6e63721646dba5e44c",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/animations/static/css/1.b1dcad14.chunk.css"
   },
   {
-    "revision": "320b43004870ed9ac791bda15c48c46a",
+    "revision": "50f067414608629fd40249b6e47f654e",
     "url": "/animations/index.html"
   }
 ];
